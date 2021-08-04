@@ -51,9 +51,8 @@
  <a href="https://velog.io/@hoon_dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
 
- <p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlzlzlmo)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 
  
