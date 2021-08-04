@@ -2,11 +2,6 @@
 
 <h2 align="center"><a id="user-content--this-is-me-" class="anchor" aria-hidden="true" href="#-this-is-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270b.png">✋</g-emoji> Hello! <g-emoji class="g-emoji" alias="raised_back_of_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91a.png">🤚</g-emoji></h2>
 
-<p align="center">
- <a href="https://velog.io/@hoon_dev" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/10f226ee5a24d9c6d5a5b0bb55439167f2b759cbe6b54f13b90cc114594c4846/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d54656368253230426c6f672d3635356365643f7374796c653d666c6174266c6f676f3d56696d656f266c6f676f436f6c6f723d7768697465" data-canonical-src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&amp;logo=Vimeo&amp;logoColor=white" style="max-width:100%;">
-</a>
- </p>
  <h3 align="center"><a id="user-content--interest-" class="anchor" aria-hidden="true" href="#-interest-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> 흥미 </h3>
  
  <p align="center">사용자 경험에 관심이 많아요!<br>사람들하고 소통하면서 일하는걸 너무 좋아해요!<br></p>
