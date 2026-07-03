@@ -33,11 +33,6 @@
 | [**commute-home**](https://github.com/zlzlzlmo/commute-home) | 통근 기회비용 기반 동네 추천 (Next.js · Supabase) |
 | [**lottopass-monorepo**](https://github.com/zlzlzlmo/lottopass-monorepo) | 로또 번호 생성·분석 풀스택 (React · NestJS) |
 
-### 📊 GitHub
-
-![Seunghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlzlzlmo&show_icons=true&hide_border=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlzlzlmo&layout=compact&hide_border=true&langs_count=6)
-
 ### 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zlzlzlmo60@gmail.com)
