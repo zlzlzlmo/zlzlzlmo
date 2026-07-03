@@ -4,7 +4,7 @@
 
 - 🏢 B2B 마켓플레이스에서 **사내 유일 개발자**로 입찰·계약 플랫폼과 서비스 마켓플레이스를 단독 설계·구축·운영
 - ⚙️ **NestJS · Clean Architecture · CQRS** 백엔드 / **React · Turborepo 모노레포** / **OpenAPI 계약 기반**(Orval) 개발
-- 🤖 **pgvector RAG · 멀티에이전트** 등 AI를 실제 제품에 접목
+- 🤖 **pgvector RAG · 함수콜 에이전트** 등 AI를 실제 제품에 접목
 - 🧩 프론트 → 백엔드 → 인프라 → 배포까지 "끝까지 만드는" 것을 좋아합니다
 - 📝 기술블로그 [hooneylog.com](https://hooneylog.com)
 
@@ -27,8 +27,7 @@
 
 | 프로젝트 | 설명 |
 |---|---|
-| [**four-season**](https://github.com/zlzlzlmo/four-season) | CrewAI **8-agent** AI 비즈니스 플랫폼 · Turborepo 모노레포 (Python + TS) |
-| [**seonjung**](https://github.com/zlzlzlmo/seonjung) | AI가 창업 사업계획서를 평가지표 기준으로 작성·채점하는 SaaS (Next.js) |
+| [**seonjung (선정)**](https://github.com/zlzlzlmo/seonjung) | AI가 창업 사업계획서를 평가지표 기준으로 작성·채점하는 SaaS (Next.js) |
 | [**Hooneylog**](https://github.com/zlzlzlmo/Hooneylog) | Notion API 기반 기술블로그 · pnpm + Turborepo 모노레포 |
 | [**commute-home**](https://github.com/zlzlzlmo/commute-home) | 통근 기회비용 기반 동네 추천 (Next.js · Supabase) |
 | [**lottopass-monorepo**](https://github.com/zlzlzlmo/lottopass-monorepo) | 로또 번호 생성·분석 풀스택 (React · NestJS) |
