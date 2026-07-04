@@ -27,10 +27,9 @@
 
 | 프로젝트 | 설명 |
 |---|---|
-| [**seonjung (선정)**](https://github.com/zlzlzlmo/seonjung) | AI가 창업 사업계획서를 평가지표 기준으로 작성·채점하는 SaaS (Next.js) |
 | [**Hooneylog**](https://github.com/zlzlzlmo/Hooneylog) | Notion API 기반 기술블로그 · pnpm + Turborepo 모노레포 |
-| [**commute-home**](https://github.com/zlzlzlmo/commute-home) | 통근 기회비용 기반 동네 추천 (Next.js · Supabase) |
-| [**lottopass-monorepo**](https://github.com/zlzlzlmo/lottopass-monorepo) | 로또 번호 생성·분석 풀스택 (React · NestJS) |
+| [**seonjung (선정)**](https://github.com/zlzlzlmo/seonjung) | 🚧 *개발 중* · AI가 창업 사업계획서를 평가지표 기준으로 작성·채점하는 SaaS (Next.js) |
+| [**commute-home**](https://github.com/zlzlzlmo/commute-home) | 🚧 *개발 중* · 통근 기회비용 기반 동네 추천 (Next.js · Supabase) |
 
 ### 📫 Contact
 
