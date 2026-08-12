@@ -6,14 +6,14 @@
 - ⚙️ **NestJS · Clean Architecture · CQRS** 백엔드 / **React · Turborepo 모노레포** / **OpenAPI 계약 기반**(Orval) 개발
 - 🤖 **pgvector RAG · 함수 호출형 에이전트**를 사내 운영 업무에 실제로 투입 — AI가 쓴 코드는 전수 점검으로 검증
 - 🧩 프론트 → 백엔드 → 인프라 → 배포까지 "끝까지 만드는" 것을 좋아합니다
+- 📝 기술블로그 [hooneylog.com](https://hooneylog.com)
 
 ### 📈 최근에 한 일
 
 - 운영 중이던 **Java·MSSQL 레거시를 중단 없이 NestJS·PostgreSQL로 이관**하고 2026년 7월 구 시스템을 종료했습니다 (종료 당일 검증 105건 전부 통과)
 - 커버링 인덱스와 커서 페이지네이션으로 **조회 9초를 수십 ms**로, 총계 상한으로 전면 장애를 **p95 58.6초 → 0.85초**로 끝냈습니다
-- 공개 화면 **접근성 88점 → 100점 · 색 대비 위반 104건 → 0건**, LCP 3.1초 → 2.7초. 다시 새지 않게 회귀 테스트로 잠갔습니다
+- 공개 화면 **접근성 88점 → 100점 · 색 대비 위반 104건 → 0건**, LCP 3.1초 → 2.7초. 다시 나빠지지 않게 회귀 테스트로 잠갔습니다
 - 외부 파트너 연동 API를 OAuth 표준에 맞춰 열고, **Java·TypeScript SDK를 Maven Central·npm에 자동 배포**합니다
-- 📝 기술블로그 [hooneylog.com](https://hooneylog.com)
 
 ### 🛠 Tech Stack
 
