@@ -36,7 +36,6 @@
 |---|---|
 | [**Hooneylog**](https://github.com/zlzlzlmo/Hooneylog) | Notion API 기반 기술블로그를 프론트·백엔드·DNS까지 직접 운영 · pnpm + Turborepo 모노레포 · **Lighthouse 성능 95 · LCP 0.9초 · CLS 0** |
 | [**위비즈**](https://webiz.im) | 정부 공식 `.hwp` 양식은 그대로 두고 AI가 내용만 채우는 지원사업 계획서 작성 SaaS · 공고 찾기부터 초안·보완·제출본까지 (Next.js 16 · 저장소 비공개) |
-| [**commute-home**](https://github.com/zlzlzlmo/commute-home) | 🚧 *개발 중* · 통근 기회비용 기반 동네 추천 (Next.js · Supabase) |
 
 ### 🌱 Open Source
 
