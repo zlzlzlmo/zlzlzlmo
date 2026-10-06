@@ -35,8 +35,16 @@
 | 프로젝트 | 설명 |
 |---|---|
 | [**Hooneylog**](https://github.com/zlzlzlmo/Hooneylog) | Notion API 기반 기술블로그를 프론트·백엔드·DNS까지 직접 운영 · pnpm + Turborepo 모노레포 · **Lighthouse 성능 95 · LCP 0.9초 · CLS 0** |
-| [**오토독**](https://autodoc-kr.vercel.app) | 🚧 *개발 중* · 정부 공식 양식은 그대로 두고 AI가 내용만 채우는 사업계획서 작성·채점 SaaS (Next.js 16 · 저장소 비공개) |
+| [**위비즈**](https://webiz.im) | 정부 공식 `.hwp` 양식은 그대로 두고 AI가 내용만 채우는 지원사업 계획서 작성 SaaS · 공고 찾기부터 초안·보완·제출본까지 (Next.js 16 · 저장소 비공개) |
 | [**commute-home**](https://github.com/zlzlzlmo/commute-home) | 🚧 *개발 중* · 통근 기회비용 기반 동네 추천 (Next.js · Supabase) |
+
+### 🌱 Open Source
+
+[**rhwp**](https://github.com/edwardkim/rhwp) (Rust·WASM 한글 문서 뷰어·편집기)에 기여했습니다 — [v0.8.7 릴리스](https://github.com/edwardkim/rhwp/releases/tag/v0.8.7) 기여자 명단에 올라 있습니다.
+
+- [#6773](https://github.com/edwardkim/rhwp/pull/6773) 셀·글상자 안 표를 지우는 `deleteCellTableControlByPath` 추가 (병합)
+- [#7323](https://github.com/edwardkim/rhwp/issues/7323) HWP5 저장에서 표 «쪽 경계에서 나눔»·«제목 줄 자동 반복» 편집이 사라지는 결함 제보와 수정 PR [#7324](https://github.com/edwardkim/rhwp/pull/7324) — 메인테이너가 통합 PR [#7326](https://github.com/edwardkim/rhwp/pull/7326)으로 병합
+- [#7288](https://github.com/edwardkim/rhwp/issues/7288) 표 `pageBreak` 값별 조판이 한/글과 어긋나는 결함 제보
 
 ### 📫 Contact
 
